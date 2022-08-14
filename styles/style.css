@@ -26,7 +26,7 @@ body {
   height: 400px;
   background-color: rgba(255, 255, 255, 0.1);
   padding: 50px;
-  color: #fff;
+  color: #000;
   border-radius: 9px;
   backdrop-filter: blur(50px);
   border: 2px solid transparent;
